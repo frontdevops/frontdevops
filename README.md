@@ -45,7 +45,7 @@
 
 
 ### Support 🙏
-If you use my work or you like what I do, support me. It's very important to me.
+If you use my code or you like what I do, support me, please. It's very important to me.
 Your support motivates me to do more. Thank you very much.
 
 <p>
