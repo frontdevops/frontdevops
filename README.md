@@ -48,4 +48,9 @@
 If you use my work or you like what I do, support me. It's very important to me.
 Your support motivates me to do more. Thank you very much.
 
-<p><a href="https://www.buymeacoffee.com/frontdevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="frontdevops" /></a><a href="https://ko-fi.com/frontdevops"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="frontdevops" /></a></p><br><br>
+<p>
+<a href="https://www.buymeacoffee.com/frontdevops" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="frontdevops" /></a>
+<a href="https://ko-fi.com/frontdevops" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="frontdevops" /></a>
+<a href="https://www.patreon.com/geekjob" target="_blank"><img src="https://i.imgur.com/CNm6P6f.png" height="50"/></a>
+<a href="https://boosty.to/geekjob" target="_blank"><img src="https://static.boosty.to/assets/images/logo.Ffjjd.svg" height="50" style="margin-left:16px"/></a>
+</p>
