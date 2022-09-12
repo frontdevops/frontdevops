@@ -55,6 +55,4 @@ Your support motivates me to do more. Thank you very much.
 <a href="https://boosty.to/geekjob" target="_blank"><img src="https://static.boosty.to/assets/images/logo.Ffjjd.svg" height="50" style="margin-left:16px"/></a>
 </p>
 
-<center>
 [![fullstackcto youtube channel](https://img.youtube.com/vi/cEKhcVcbo_k/0.jpg)](https://www.youtube.com/watch?v=cEKhcVcbo_k)
-</center>
