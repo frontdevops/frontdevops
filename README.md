@@ -35,7 +35,9 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,mongo,mysql,js,ts,nodejs,wasm,docker,nginx,redis,cloudflare,regex,sqlite,vue,html,css,jquery,svelte,bootstrap,git,bash,codepen,flask,gatsby,stackoverflow,github,gitlab,md,vscode,vim,neovim,svg,selenium,arduino,raspberrypi&theme=light&perline=12)](https://skillicons.dev)
+<a href="https://github.com/frontdevops">
+<img src="https://skillicons.dev/icons?i=php,py,mongo,mysql,js,ts,nodejs,wasm,docker,nginx,redis,cloudflare,regex,sqlite,vue,html,css,jquery,svelte,bootstrap,git,bash,codepen,flask,gatsby,stackoverflow,github,gitlab,md,vscode,vim,neovim,svg,selenium,arduino,raspberrypi&theme=light&perline=12">
+</a>
 
 ![](https://img.shields.io/badge/Guru-JS-yellow)
 ![](https://img.shields.io/badge/Senior-TS-blue)
