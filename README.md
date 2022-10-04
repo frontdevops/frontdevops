@@ -10,7 +10,23 @@
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=FullStack+CTO;Software+Engineer;Backend+Developer;Frontend+Developer)](https://git.io/typing-svg)
  
-![](https://komarev.com/ghpvc/?username=frontdevops&color=007bff&label=Profile+Views&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=frontdevops&color=007bff&label=Profile+Views&style=flat)
+![](https://img.shields.io/github/followers/frontdevops?style=flat)
+<img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=20>
+<img src="https://awesome.re/badge.svg" alt="Awesome" height=20>
+
+<a href="https://t.me/hackdevclub" target="_blank"><img src="https://img.shields.io/badge/chat-32%20online-brightgreen" alt="Chat" height=20></a>
+<a href="https://geekjob.tech" target="_blank"><img src="https://img.shields.io/badge/%E2%98%85-FullStack%20CTO-blue"></a>
+<a href="https://stackoverflow.com/users/4265206/alexander-majorov" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-3-orange"></a>
+
+
+<a href="https://twitter.com/frontdevops">
+<img src="https://img.shields.io/twitter/follow/frontdevops?style=social"
+</a>
+<a href="https://youtube.com/fullstackcto" target="_blank">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCCCL_ajMWw1bNoauInx6ewA?style=social">
+</a>
  
 </div>
 
@@ -21,8 +37,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,py,mongo,mysql,js,ts,nodejs,wasm,docker,nginx,redis,cloudflare,regex,sqlite,vue,html,css,jquery,svelte,bootstrap,git,bash,codepen,flask,gatsby,stackoverflow,github,gitlab,md,vscode,vim,neovim,svg,selenium,arduino,raspberrypi&theme=light&perline=12)](https://skillicons.dev)
 
+![](https://img.shields.io/badge/Guru-JS-yellow)
+![](https://img.shields.io/badge/Senior-TS-blue)
+![](https://img.shields.io/badge/Guru-PHP-blue)
+![](https://img.shields.io/badge/Senior-Python-orange)
+![](https://img.shields.io/badge/Senior-MongoDB-green)
+
 </div>
-  
+
 
  
   
