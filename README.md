@@ -49,15 +49,12 @@
 
 </div>
 
-
- 
-  
 ## 📈 Github stats
 
 <!-- https://github.com/marketplace/actions/github-profile-3d-contrib
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="frontdevops's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/frontdevops/frontdevops/master/profile-3d-contrib/profile-night-green.svg" /></a>
 -->
-  
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="frontdevops's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=frontdevops&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
 
@@ -81,4 +78,9 @@ Your support motivates me to do more. Thank you very much.
 <a href="https://boosty.to/geekjob" target="_blank"><img src="https://static.boosty.to/assets/images/logo.Ffjjd.svg" height="50" style="margin-left:16px"/></a>
 </p>
 
+
+<div align="center">
+
 [![fullstackcto youtube channel](https://img.youtube.com/vi/cEKhcVcbo_k/0.jpg)](https://www.youtube.com/watch?v=cEKhcVcbo_k)
+
+</div>
