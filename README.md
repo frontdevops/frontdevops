@@ -47,9 +47,34 @@
 ![](https://img.shields.io/badge/Senior-Python-orange)
 ![](https://img.shields.io/badge/Senior-MongoDB-green)
 
+### Databases:
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/> </a>
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
+
+### Languages 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> -->
+<!--  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />-->
+</p>
 </div>
 
+
 ## 📈 Github stats
+
+<table><tr><td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontdevops&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" />
+</td><td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontdevops&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="itzderock" />
+</td></tr></table>
+
 
 <!-- https://github.com/marketplace/actions/github-profile-3d-contrib
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="frontdevops's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/frontdevops/frontdevops/master/profile-3d-contrib/profile-night-green.svg" /></a>
