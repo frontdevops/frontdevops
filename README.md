@@ -69,11 +69,13 @@
 
 ## 📈 Github stats
 
+<div align="center">
 <table><tr><td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frontdevops&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
 </td><td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontdevops&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
 </td></tr></table>
+</div>
 
 
 <!-- https://github.com/marketplace/actions/github-profile-3d-contrib
