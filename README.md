@@ -94,18 +94,6 @@
 </div>
 
 
-### Support 🙏
-If you use my code or you like what I do, support me, please. It's very important to me.
-Your support motivates me to do more. Thank you very much.
-
-<p>
-<a href="https://www.buymeacoffee.com/frontdevops" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="frontdevops" /></a>
-<a href="https://ko-fi.com/frontdevops" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="frontdevops" /></a>
-<a href="https://www.patreon.com/geekjob" target="_blank"><img src="https://i.imgur.com/CNm6P6f.png" height="50"/></a>
-<a href="https://boosty.to/geekjob" target="_blank"><img src="https://static.boosty.to/assets/images/logo.Ffjjd.svg" height="50" style="margin-left:16px"/></a>
-</p>
-
-
 <div align="center">
 
 [![fullstackcto youtube channel](https://img.youtube.com/vi/cEKhcVcbo_k/0.jpg)](https://www.youtube.com/watch?v=cEKhcVcbo_k)
